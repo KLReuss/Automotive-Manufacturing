@@ -1,0 +1,24 @@
+State,StateCode,City,Name,ActiveAutomakerPresence,ExpansionPlans,Notes
+Alabama,AL,Madison,Mazda Toyota,"Mazda, Toyota",,Googled it; it's a joint plant and not multiple plants
+Alabama,AL,Montgomery,Hyndai,Hyundai,,
+Alabama,AL,Lincoln,Honda,Honda,,
+Alabama,AL,Vance,Mercedes-Benz,Daimler AG (Mercedes-Benz),,
+Georgia,GA,West Point,KIA,KIA,,
+Georgia,GA,Commerce,Ford,,Ford Battery Plant (SK Automotive),
+Georgia,GA,Savannah,Hyundai,,Hyundai EV Plant,"(near Savannah, GA)"
+Kentucky,KY,Georgetown,Toyota,Toyota,,
+Kentucky,KY,Louisville,Ford,Ford,,
+Kentucky,KY,Glendale,Ford,,Ford/SK Automotive,"This datapoint included a note on ""Blue Oval City"" which is an expansion plant in Stanton, TN and appears elsewhere in the data"
+Mississippi,MS,Blue Springs,Toyota,Toyota,,
+Mississippi,MS,Canton,Nissan,Nissan,,
+North Carolina,NC,Greensboro,Toyota,,Toyota,
+North Carolina,NC,Raleigh,Vinfast,,Vinfast,
+South Carolina,SC,Greer,BMW,BMW Group,,
+South Carolina,SC,Ladson,Mercedes-Benz,Daimler AG (Mercedes-Benz),,
+South Carolina,SC,Ridgeville,Volvo,Volvo Cars USA,,
+South Carolina,SC,Greer,BMW,,BMW,"Note this is the second obersvation & second type of observation in Greer. In an ideal world, we would probably want to jitter the plot."
+South Carolina,SC,Florence,BMW,,Envision,
+Tennessee,TN,Smyrna,Nissan,Nissan,,
+Tennessee,TN,Chattanooga,Volkswagen,Volkswagen,,
+Tennessee,TN,Springhill,GM,GM,,
+Tennessee,TN,Stanton,Ford,,Ford/SK Automotive,
