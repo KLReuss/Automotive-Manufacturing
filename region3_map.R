@@ -7,7 +7,6 @@ library(tidygeocoder)
 library(ggrepel)
 
 
-# temporary edit.
 
 # has_google_key()
 
