@@ -153,7 +153,7 @@ city_info <- plant_data |>
   geocode(city = City, state = StateCode, method = "census")
 
 
-register_google(key = "AIzaSyAkcngiYryr-4PuseCAnEsW0qb7SGDiPdM")
+register_google(key = "")
 
 
 
